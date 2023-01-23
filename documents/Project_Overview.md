@@ -35,3 +35,17 @@ We are looking for team members who can commit a minimum of 15-20 hours per week
 ## Communication and Collaboration
 
 We will be using GitHub for version control, Slack for real-time communication and Jira for project management.
+
+## What will you learn after completing the project?
+
+After completing the "Type Chat" projectyou will likely have gained valuable experience and skills in the following areas:
+
+- TypeScript: You will have gained experience in using TypeScript, a strongly-typed superset of JavaScript, which will help you write more maintainable and scalable code.
+- React: You will have gained experience in building user interfaces using React, a popular JavaScript library for building user interfaces. You will have learned how to create reusable components, manage state and props, and interact with APIs.
+- Express: You will have gained experience in building a server-side application using Express, a popular web framework for Node.js. You will have learned how to handle routing, handle requests and responses, and interact with databases.
+- Socket.io: You will have gained experience in building real-time applications using Socket.io, a library for real-time communication. You will have learned how to set up WebSockets, send and receive messages, and handle events.
+- Tailwind CSS: You will have gained experience in using Tailwind CSS, a utility-first CSS framework that can help you quickly build responsive user interfaces.
+- Concurrently: You will have gained experience in using Concurrently, a library that allows you to run multiple commands concurrently.
+- MongoDB: You will have gained experience in using MongoDB, a popular NoSQL database. You will have learned how to connect to a MongoDB database, create and query collections, and perform CRUD operations.
+- Project management: You will have gained experience in project management, planning, and collaboration. You will have learned how to work effectively with a team, manage tasks and deadlines, and communicate effectively.
+- Problem-solving: You will have gained experience in solving complex problems, debugging, and troubleshooting.
