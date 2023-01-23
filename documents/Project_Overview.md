@@ -11,7 +11,6 @@ The "Type Chat" project is a real-time chat application built with TypeScript an
 - Express
 - Socket.io
 - Tailwind CSS
-- Concurrently
 - MongoDB
 
 ## Current Status
@@ -45,7 +44,6 @@ After completing the "Type Chat" projectyou will likely have gained valuable exp
 - Express: You will have gained experience in building a server-side application using Express, a popular web framework for Node.js. You will have learned how to handle routing, handle requests and responses, and interact with databases.
 - Socket.io: You will have gained experience in building real-time applications using Socket.io, a library for real-time communication. You will have learned how to set up WebSockets, send and receive messages, and handle events.
 - Tailwind CSS: You will have gained experience in using Tailwind CSS, a utility-first CSS framework that can help you quickly build responsive user interfaces.
-- Concurrently: You will have gained experience in using Concurrently, a library that allows you to run multiple commands concurrently.
 - MongoDB: You will have gained experience in using MongoDB, a popular NoSQL database. You will have learned how to connect to a MongoDB database, create and query collections, and perform CRUD operations.
 - Project management: You will have gained experience in project management, planning, and collaboration. You will have learned how to work effectively with a team, manage tasks and deadlines, and communicate effectively.
 - Problem-solving: You will have gained experience in solving complex problems, debugging, and troubleshooting.
