@@ -42,7 +42,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 TypeChat/
 ├── client/
 │   ├── public/
-│   │   ├── index.html 
+│   │   ├── index.html
 │   │   ├── favicon.ico
 │   │   ├── images/
 │   │   │   ├── ...
@@ -53,6 +53,17 @@ TypeChat/
 │   │   ├── components/
 │   │   │   ├── Chat.tsx
 │   │   │   ├── Message.tsx
+│   │   │   └── ...
+│   │   ├── Pages/
+│   │   │   ├── Login/
+│   │   │   │   ├── Login.tsx
+│   │   │   │   └── ...
+│   │   │   ├── Register/
+│   │   │   │   ├── Register.tsx
+│   │   │   │   └── ...
+│   │   ├── routes/
+│   │   │   ├── login.route.tsx
+│   │   │   ├── register.route.tsx
 │   │   │   └── ...
 │   │   ├── services/
 │   │   │   ├── socket.ts
@@ -73,7 +84,6 @@ TypeChat/
 │   │   │   └── ...
 │   │   ├── models/
 │   │   │   ├── auth.model.ts
-│   │
 │   │   │   ├── message.model.ts
 │   │   │   └── ...
 │   │   ├── routes/
@@ -95,5 +105,4 @@ TypeChat/
 ├── README.md
 ├── .gitignore
 └── ...
-
 ```
