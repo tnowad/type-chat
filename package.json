@@ -1,0 +1,16 @@
+{
+  "name": "type-chat",
+  "version": "1.0.0",
+  "description": "A typed, real-time chat application built with TypeScript and React.",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "cd client && yarn start",
+    "start:server": "cd server && yarn start",
+    "start": "concurrently \"yarn start:client\" \"yarn start:server\""
+  },
+  "author": "Nguyen Minh Tuan",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
