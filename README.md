@@ -7,7 +7,7 @@ A typed, real-time chat application built with TypeScript and React.
 - Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Type-Chat.git
+git clone https://github.com/tnowad/type-chat.git
 ```
 
 - Install the dependencies for both client and server
