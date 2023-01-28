@@ -1,4 +1,4 @@
-# The skills required for this project include:
+# The skills required for this project include
 
 1. Strong knowledge of TypeScript and JavaScript
 2. Familiarity with React and its concepts
