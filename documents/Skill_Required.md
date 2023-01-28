@@ -45,7 +45,6 @@ Design patterns:
 Tools:
 
 - Git
-- Concurrently
 - Jira
 
 Server-side development:
