@@ -16,3 +16,47 @@
 14. Familiarity with AWS or other cloud computing platforms for hosting the application
 15. Knowledge of GraphQL or another alternative to REST API
 16. Understanding of how to test the application.
+
+Programming languages:
+
+- TypeScript
+- JavaScript
+- React
+- Express
+- Node.js
+
+Databases:
+
+- MongoDB
+- MySQL
+
+Web development:
+
+- HTML
+- CSS
+- Tailwind
+- Socket.io
+
+Design patterns:
+
+- MVC
+- RESTful API
+
+Tools:
+
+- Git
+- Concurrently
+- Jira
+
+Server-side development:
+
+- Authentication and authorization
+- Server-side rendering
+- WebSocket
+
+Other:
+
+- Responsive design
+- Cross-browser compatibility
+- Testing (Jest, Enzyme, Supertest)
+- Deployment (Heroku, AWS, Google Cloud)
